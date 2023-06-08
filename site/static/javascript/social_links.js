@@ -1,11 +1,11 @@
-var fb = ''; 
+var fb = 'https://Facebook. com'; 
  var tw = ''; 
  var yt = ''; 
  var insta = ''; 
  var pt = ''; 
  var social_mobile = '923017654321' 
  var social_location = ''; 
- var social_email = 'syed.adnanahmed@live.com'; 
+ var social_email = 'contact@basics.com'; 
  var about_info = ''; 
  var company_name= 'BASICS'; 
  var tagmaneger = ''; 
