@@ -1,8 +1,8 @@
-var fb = 'https://Facebook. com'; 
- var tw = ''; 
- var yt = ''; 
- var insta = ''; 
- var pt = ''; 
+var fb = 'https://facebook.com'; 
+ var tw = 'https://twitter.com'; 
+ var yt = 'https://youtube.com'; 
+ var insta = 'https://facebook.com'; 
+ var pt = 'http://pinterest.com'; 
  var social_mobile = '923017654321' 
  var social_location = ''; 
  var social_email = 'contact@basics.com'; 
